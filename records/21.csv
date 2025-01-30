@@ -1,0 +1,63 @@
+0,Registru evidenta,Probe,Nr.,Denumire probă,Seria,Solicitant,Analiza solicitată,Data primirii,Data eliberării,Nume,Semnătura
+,,,1.0,Am. cpr PROTEIN FORTA,001.01.24,CC,Proteina totala,05/01/2024,29/01/2024,Mihaela Neagu,Mihaela Neagu
+,,,2.0,PROTEIN FORTA cpr acop. - vrac,001.01.24,CC,Proteina totala,08/01/2024,29/01/2024,Mihaela Neagu,Mihaela Neagu
+,,,3.0,Am. cpr SPIRULINA 1000 mg,001.01.24,CC,Proteina totala,08/01/2024,29/01/2024,Mihaela Neagu,Mihaela Neagu
+,,,4.0,SPIRULINA cpr 1000 mg,001.01.24,CC,Proteina totala,09/01/2024,29/01/2024,Mihaela Neagu,Mihaela Neagu
+,,,5.0,SPIRULINA cu extr. total CATINA cpr - vrac,001.01.24,CC,Proteina totala,15/01/2024,29/01/2024,Mihaela Neagu,Mihaela Neagu
+,,,6.0,Am. cpr SPIRULINA cu extr. total catina,001.01.24,CC,Proteina totala,12/01/2024,29/01/2024,Mihaela Neagu,Mihaela Neagu
+,,,7.0,Amestec incaps.- Prod Iod,001.01.24,CD,Dozare iod+Se,18/01/2024,18/01/2024,Justinian Tomescu,Justinian Tomescu
+,,,8.0,PRODUS IOD-cps. vrac,001.01.24,CD,IOD+Se,15/01/2024,18/01/2024,Justinian Tomescu,Justinian Tomescu
+,,,9.0,PRODUS IOD-cps. vrac,002.01.24,CD,IOD+Se,15/01/2024,18/01/2024,Justinian Tomescu,Justinian Tomescu
+,,,10.0,PRODUS IOD-cps. vrac,003.01.24,CD,IOD+Se,15/01/2024,18/01/2024,Justinian Tomescu,Justinian Tomescu
+,,,11.0,PRODUS IOD - Amb. primara,001.01.24,CD,IOD+Se,18/01/2024,18/01/2024,Justinian Tomescu,Justinian Tomescu
+,,,12.0,PRODUS IOD- Amb. Primara,002.01.24,CD,IOD+Se,18/01/2024,18/01/2024,Justinian Tomescu,Justinian Tomescu
+,,,13.0,PRODUS IOD- Amb. Primara,003.01.24,CD,IOD+Se,18/01/2024,18/01/2024,Justinian Tomescu,Justinian Tomescu
+,,,14.0,IN ECOLOGIC seminte MPA,001.02.22,CC,Lipide,01/252024,01/02/2024,Mihaela Neagu,Mihaela Neagu
+,,,15.0,PB DANGNON -Prod CERCETARE,-,CD,Lipide,30/01/2024,01/02/2024,Mihaela Neagu,Mihaela Neagu
+,,,16.0,VP DANGONON Prod CERCETARE,-,CD,Lipide,30/01/2024,01/02/2024,Mihaela Neagu,Mihaela Neagu
+,,,17.0,CATINA fructe uscate MPA,-,CC,Lipide,07/02/2024,20/02/2024,Mihaela Neagu,Mihaela Neagu
+,,,18.0,Am. cpr SPIRULINA 200 mg,001.02.24,CC,Proteina totala,28/02/2024,12/03/2024,Mihaela Neagu,Mihaela Neagu
+,,,19.0,SPIRULINA cpr 200 mg - vrac,001.02.24,CC,Proteina totala,29/02/2024,08/03/2024,Mihaela Neagu,Mihaela Neagu
+,,,20.0,Am. cpr SPIRULINA 1000 mg,011.03.24,CC,Proteina totala,05/03/2024,14/03/2024,Mihaela Neagu,Mihaela Neagu
+,,,21.0,SPIRULINA cpr 1000 mg,011.03.24,CC,Proteina totala,06/03/2024,26/03/2024,Mihaela Neagu,Mihaela Neagu
+,,,22.0,Am. cps SPIRULINA 500 mg,001.03.24,CC,Proteina totala,06/03/2024,26/03/2024,Mihaela Neagu,Mihaela Neagu
+,,,23.0,Am. cpr COMPLEX ALFALFA,001.03.24,CC,Proteina totala,07/03/2024,15/03/2024,Mihaela Neagu,Mihaela Neagu
+,,,24.0,COMPLEX ALFALFA cpr acop. - vrac,001.03.24,CC,Proteina totala,12/03/2024,25/03/2024,Mihaela Neagu,Mihaela Neagu
+,,,25.0,CATINA ecol. fructe pulb.,-,CC,Lipide,13/03/2024,14/03/2024,Mihaela Neagu,Mihaela Neagu
+,,,26.0,SPIRULINA cps 500 mg - vrac,001.03.24,CC,Proteina totala,07/03/2024,26/03/2024,Mihaela Neagu,Mihaela Neagu
+,,,27.0,Am. cps VEDISAN,001.03.24,CC,Activitate antioxidanta,26/03/2024,27/03/2024,Mihaela Neagu,Mihaela Neagu
+,,,28.0,VEDISAN cps - vrac,001.03.24,CC,Activitate antioxidanta,03/04/2024,04/04/2024,Mihaela Neagu,Mihaela Neagu
+,,,29.0,Am. cpr SPIRULINA 1000 mg,021.04.24,CC,Proteina totala,18/04/2024,09/05/2024,Mihaela Neagu,Mihaela Neagu
+,,,30.0,SPIRULINA cpr 1000 mg,021.04.24,CC,Proteina totala,19/04/2024,10/05/2024,Mihaela Neagu,Mihaela Neagu
+,,,31.0,Am. cpr SPIRULINA cu extr. total catina,011.05.24,CC,Proteina totala,13/05/2024,30/05/2024,Mihaela Neagu,Mihaela Neagu
+,,,32.0,SPIRULINA cu extr. total CATINA cpr - vrac,011.05.24,CC,Proteina totala,14/05/2024,30/05/2024,Mihaela Neagu,Mihaela Neagu
+,,,33.0,Am. cpr PROTEIN FORTA,002.05.24,CC,Proteina totala,29/05/2024,06/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,34.0,Am. cpr SPIRULINA 1000 mg,031.05.24,CC,Proteina totala,29/05/2024,06/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,35.0,SPIRULINA cpr 1000 mg,031.05.24,CC,Proteina totala,03/06/2024,20/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,36.0,Am. cps ARMUHEP,001.06.24,CC,Lipide,05/06/2024,07/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,37.0,PROTEIN FORTA cpr acop. - vrac,002.05.24,CC,Proteina totala,05/06/2024,20/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,38.0,ARMUHEP cps - vrac,001.06.24,CC,Lipide,10/06/2024,12/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,39.0,Am. cpr COMPLEX ALFALFA,002.06.24,CC,Proteina totala,12/06/2024,18/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,40.0,SPIRULINA biomasa,YJS20240204,CC,Proteina totala,13/06/2024,21/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,41.0,SPIRULINA biomasa,YJS20240205,CC,Proteina totala,13/06/2024,21/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,42.0,SPIRULINA biomasa,YJS20240206,CC,Proteina totala,13/06/2024,21/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,43.0,SPIRULINA biomasa,YJS20240207,CC,Proteina totala,13/06/2024,21/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,44.0,SPIRULINA biomasa,YJS20240207,CC,Proteina totala,13/06/2024,21/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,45.0,SPIRULINA biomasa,YJS20240209,CC,Proteina totala,13/06/2024,21/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,46.0,COMPLEX ALFALFA cpr acop. - vrac,002.06.24,CC,Proteina totala,18/06/2024,25/06/2024,Mihaela Neagu,Mihaela Neagu
+,,,47.0,Am. cpr SPIRULINA 1000 mg,041.07.24,CC,Proteina totala,11/07/2024,25/07/2024,Mihaela Neagu,Mihaela Neagu
+,,,48.0,SPIRULINA cpr 1000 mg,041.07.24,CC,Proteina totala,12/07/2024,25/07/2024,Mihaela Neagu,Mihaela Neagu
+,,,49.0,Lucerna MPA ECO,001.07.24,CC,Proteina totala,17/07/2024,24/07/2024,Mihaela Neagu,Mihaela Neagu
+,,,50.0,CATINA fruct Degresat MPA,001.07.24,CC,Lipide,17/07/2024,19/07/2024,Mihaela Neagu,Mihaela Neagu
+,,,51.0,Am. cpr COMPLET HOFIGAL ANTIOXIDANT,001.07.24,CC,Activitate antioxidanta,24/07/2024,26/07/2024,Cristina Luntraru,Cristina Luntraru
+,,,52.0,COMPLET HOFIGAL ANTIOXIDANT cpr acop.,001.07.24,CC,Activitate antioxidanta,01/08/2024,02/08/2024,Mihaela Neagu,Mihaela Neagu
+,,,53.0,Am. cpr SPIRULINA 1000 mg,051.08.24,CC,Proteina totala,27/08/2024,24/09/2024,Mihaela Neagu,Mihaela Neagu
+,,,54.0,SPIRULINA cpr 1000 mg,051.08.24,CC,Proteina totala,27/08/2024,24/09/2024,Mihaela Neagu,Mihaela Neagu
+,,,55.0,COMPLET HOFIGAL ANTIOXIDANT cpr acop.,002.07.24,CC,Activitate antioxidanta,17/09/2024,19/09/2024,Mihaela Neagu,Mihaela Neagu
+,,,56.0,Am. cpr COMPLET HOFIGAL ANTIOXIDANT,002.09.24,CC,Activitate antioxidanta,09/09/2024,12/09/2024,Justinian Tomescu,Justinian Tomescu
+,,,57.0,Coji seminte de Floarea Soarelui,001.01.22,CC,Proteina totala,30/08/2024,26/09/2024,Mihaela Neagu,Mihaela Neagu
+,,,58.0,AmA incps LICOPROSTAT FORTE PI,001.09.24,CC,Identificare LICOPEN,11/09/2024,18/09/2024,Justinian Tomescu,Justinian Tomescu
+,,,59.0,LICOPROSTAT FORTE -PV,001.09.24,CC,Identificare LICOPEN ,13/09/2024,18/09/2024,Justinian Tomescu,Justinian Tomescu
+,,,60.0,Am. cpr SPIRULINA cu extr. total catina,021.09.24,CC,Proteina totala,19/09/2024,30/09/2024,Mihaela Neagu,Mihaela Neagu
+,,,61.0,SPIRULINA cu extr. total CATINA cpr - vrac,021.09.24,CC,Proteina totala,20/09/2024,30/09/2024,Mihaela Neagu,Mihaela Neagu
+,,,62.0,Sp ext catina ,001.01.25,CC,proteina totala ,09-01-2025,29-01-2025,Mihaela Neagu,Mihaela Neagu

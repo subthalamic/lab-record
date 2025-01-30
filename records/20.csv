@@ -1,0 +1,48 @@
+0,REGISTRU DE OPERARE ȘI CURĂȚARE,UV VIS,Nr. crt.,Data,Denumire produs,Serie/Lot,Tipul probei,Absorbanța/Lungimea de undă,Efectuat citirea,Starea aparatului la finalul operării
+,,,1,26/03/2024,Am. cps VEDISAN,001.03.24,PV,450nm ,AcAO,FUNCTIONAL
+,,,2,03/04/2024,VEDISAN cps - vrac,001.03.24,PI,450nm,AcAO,FUNCTIONAL
+,,,3,05/04/2024,Extract HGEtOH 50% Perilla produs cercetare ,02.04.24,PI,450nm,AcAO,FUNCTIONAL
+,,,4,05/04/2024,Extract HGEtOH 50% Perilla produs cercetare ,02.04.24,PI,510nm,CFT,FUNCTIONAL
+,,,5,05/04/2024,Extract HGEtOH 50% Perilla produs cerectare ,02.04.24,PI,765nm,CPT,FUNCTIONAL
+,,,6,05/04/2024,Antialergic produs cercetare ,04.04.24,PI,450nm ,AcAO,FUNCTIONAL
+,,,7,05/04/2024,Antialergic - produs cercetare ,04.04.24,PI,510nm ,CFT,FUNCTIONAL
+,,,8,05/04/2024,Antialergic produs cercetare ,04.04.24,PI,765 nm,CPT,FUNCTIONAL
+,,,9,05/04/2024,Tinctura de rad urzica EtOH 70%,,PI,450nm,AcAO,FUNCTIONAL
+,,,10,05/04/2024,Tinctura de rad urzica EtOH 70%,,PI,510nm,CFT,FUNCTIONAL
+,,,11,05/04/2024,Tinctura de rad urzica EtOH 70%,,PI,765nm ,CPT,FUNCTIONAL
+,,,12,05/04/2024,"tinctura de propolis EtOH 96,5%",,PI,450nm,AcAO,FUNCTIONAL
+,,,13,05/04/2024,"tinctura de propolis EtOH 96,5%",,PI,510nm,CFT,FUNCTIONAL
+,,,14,05/04/2024,"tinctura de propolis EtOH 96,5%",,PI,765nm,CPT,FUNCTIONAL
+,,,15,05/04/2024,"tinctura de rosmarin EtOH 96,5%",,PI,450nm,AcAO,FUNCTIONAL
+,,,16,05/04/2024,"tinctura de rosmarin EtOH 96,5%",,PI,510nm,CFT,FUNCTIONAL
+,,,17,05/04/2024,"tinctura de rosmarin EtOH 96,5%",,PI,765nm,CPT,FUNCTIONAL
+,,,18,05/04/2024,Tinctura de pufulita si ghimpe  EtOH 70%,,PI,450nm ,AcAO,FUNCTIONAL
+,,,19,05/04/2024,Tinctura de pufulita si ghimpe  EtOH 70%,,PI,510nm,CFT,FUNCTIONAL
+,,,20,05/04/2024,Tinctura de pufulita si ghimpe  EtOH 70%,,PI,765nm,CPT,FUNCTIONAL
+,,,21,05/04/2024,prosan cps produs cercetare ,,PV,450nm ,AcAO,FUNCTIONAL
+,,,22,05/04/2024,prosan cps produs cercetare ,,PV,510nm ,CFT,FUNCTIONAL
+,,,23,05/04/2024,prosan cps produs cercetare ,,PV,765nm ,CPT,FUNCTIONAL
+,,,24,22/05/2024,Ghimpe parte aeriana-  produs cercetare ,,MPA,450nm ,AcAO,FUNCTIONAL
+,,,25,22/05/2024,Ghimpe parte aeriana-  produs cercetare ,,MPA,510nm ,CFT,FUNCTIONAL
+,,,26,22/05/2024,Ghimpe parte aeriana-  produs cercetare ,,MPA,765nm ,CPT,FUNCTIONAL
+,,,27,22/05/2024,Pufulita - produs cercetare ,,MPA ,450nm ,AcAO,FUNCTIONAL
+,,,28,22/05/2024,Pufulita - produs cercetare ,,MPA,510nm ,CFT,FUNCTIONAL
+,,,29,22/05/2024,Pufulita - produs cercetare ,,MPA,765nm,CPT,FUNCTIONAL
+,,,30,22/05/2024,Rozmarin - produs cercetare ,,MPA ,450nm ,AcAO,FUNCTIONAL
+,,,31,22/05/2024,Rozmarin - produs cercetare ,,MPA,510nm ,CFT,FUNCTIONAL
+,,,32,22/05/2024,Rozmarin - produs cercetare ,,MPA,765nm ,CPT,FUNCTIONAL
+,,,33,22/05/2024,Radacina de urzica,,MPA,450nm,AcAO,FUNCTIONAL
+,,,34,22/05/2024,Radacina de urzica,,MPA,510nm ,CFT,FUNCTIONAL
+,,,35,22/05/2024,Radacina de urzica,,MPA,765nm ,CPT,FUNCTIONAL
+,,,36,22/05/2024,Antialergic produs cerectare ,,PV,450nm ,AcAO,FUNCTIONAL
+,,,37,22/05/2024,Antialeric produs cercetare ,,PV,510nm ,CFT,FUNCTIONAL
+,,,38,22/05/2024,Antialergic produs cercetare ,,PV,765nm ,CPT,FUNCTIONAL
+,,,39,22/05/2024,srot de in ,,MPA ,450nm ,AcAO,FUNCTIONAL
+,,,40,22/05/2024,srot de in ,,MPA ,510nm ,CFT,FUNCTIONAL
+,,,41,22/05/2024,srot de in ,,MPA ,765nm ,CPT,FUNCTIONAL
+,,,42,10/06/2024,passiflora ECO  ,,MPA,501nm ,CFT-vitexin,FUNCTIONAL
+,,,43,10/06/2024,passiflora CONV ,,MPA ,501nm ,CFT- vitexin ,FUNCTIONAL
+,,,44,25/07/2024,Am. cpr COMPLET HOFIGAL ANTIOXIDANT,001.07.24,PI,450nm,AcAO,FUNCTIONAL
+,,,45,,,,,,,FUNCTIONAL
+,,,46,,passiflora ECO ,,MPA ,450nm ,AcAO,FUNCTIONAL
+,,,47,,COMPLET HOFIGAL ANTIOXIDANT cpr acop.,001.07.24,,,,FUNCTIONAL
