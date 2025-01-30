@@ -1,0 +1,24 @@
+Format,registru,aparat,Nr. crt.,Data,Produs,Serie/Lot,val1,val2,val3,operator,stare,obs
+432,"Registru operare, verificare, calibrare  şi curăţare al balanței analitice",Balanta analitica Mettler Toledo AB204-S,Nr. crt.,Data,Operaţia/Denumirea probei,Serie/Lot,"Masa cântărită, g",-,-,Semnătura persoanei care a efectuat operaţia,-,Observaţii
+432,"Registru operare, verificare, calibrare  şi curăţare al balanței analitice",Balanta tehnica Radwag – Partner PS4500 R2,Nr. crt.,Data,Operaţia/Denumirea probei,Serie/Lot,"Masa cântărită, g",-,-,Semnătura persoanei care a efectuat operaţia,-,Observaţii
+432,"Registru operare, verificare, calibrare  şi curăţare al balanței analitice",Balanta analitica VWR 611-2271,Nr. crt.,Data,Operaţia/Denumirea probei,Serie/Lot,"Masa cântărită, g",-,-,Semnătura persoanei care a efectuat operaţia,-,Observaţii
+432,"Registru operare, verificare, calibrare  şi curăţare al balanței analitice",Balanta analitica Partner AS 310 R2,Nr. crt.,Data,Operaţia/Denumirea probei,Serie/Lot,"Masa cântărită, g",-,-,Semnătura persoanei care a efectuat operaţia,-,Observaţii
+271,REGISTRU DE OPERARE ȘI CURĂȚARE,Balanţa termica VWR MB 160,Nr. crt.,Data,Operaţia,Denumire probă/Serie,-,-,-,Semnătura utilizator,-,Observaţii
+392,Registru operare,Cuptor de calcinare Nabertherm,Nr. crt.,Data,Operaţia/Denumirea probei,Serie/Lot,Temperatură ºC/ Durata,-,-,Nume si prenume persoana care a efectuat operația,-,Observaţii
+563,REGISTRU DE OPERARE ȘI CURĂȚARE,Centrifuga Ortoalesa Digiden 21R,-,Data,Denumire probă,Tipul probei/Lot,Timp de centrifugare,RPM,-,Semnătura operator,-,Observații
+560,REGISTRU DE OPERARE ȘI CURĂȚARE,Centrifuga Sigma 2-16P,-,Data,Denumire probă,Tipul probei/Lot,Timp de centrifugare,RPM,-,Semnătura operator,Curățarea/Statusul aparatului,Observații
+566,REGISTRU DE OPERARE ȘI CURĂȚARE,Etuva Memmert UN 110,Nr. crt.,Data ,Tipul operaţiei,-,Temperatura de operare (°C),-,-,Semnătura persoanei care a efectuat operaţia,-,Observaţii
+73,REGISTRU DE OPERARE ȘI CURĂȚARE,Sistem de dozare a proteinei Kjeldahl - Buchi,Nr. crt.,Data,Denumire operaţie,"Denumire produs, Seria, Data fabricației",Data fabricației,-,-,Efectuat de/Semnătura,Starea aparatului la finalul operării,-
+217,Registru utilizare si curatare,Incubator Biosan ES - 20,Nr. crt.,Data,Operaţia,-,-,-,-,Semnătura utilizator,Status aparat,Observaţii
+567,REGISTRU DE OPERARE ȘI CURĂȚARE,Liofilizator Cool Safe Model 55-4,Nr. crt.,Data,Denumire operaţie,Denumire produs/Seria și data fabricației,Data fabricației,-,-,Efectuat operarea/Semnătura,Starea aparatului la finalul operării,-
+218,REGISTRU DE OPERARE ȘI CURĂȚARE,PH-metru Consort si Seven Copact S210,-,Data,Denumire produs,Serie/Lot,pH determinat,-,-,Efectuat determinarea si curățarea ,Starea aparatului la finalul operării,-
+559,REGISTRU DE OPERARE ȘI CURĂȚARE,Evaporator Rotativ Buchi R-300,-,Data,Denumire probă,Tipul probei/Lot,Timp de evaporare,-,-,Semnătura operator,-,Observații
+266,REGISTRU DE OPERARE ȘI CURĂȚARE,Aparatul Soxhlet VELP,Nr. crt.,Data,Denumire probă/Produs,Tipul Probei/Lot,Solvent utilizat,-,-,Semnătura ,-,Observaţii
+570,REGISTRU DE OPERARE ȘI CURĂȚARE,Vascozimetru Fungilab model Expert R,-,Data,Denumire probă/Lot,-,Timp de lucru,Axul,Vâscozitate (cP),Semnătura operator,Curățare/Statusul aparatului,Observaţii
+600,REGISTRU DE OPERARE ȘI CURĂȚARE,Extractor cu ultrasunete Steel 500-DG,Nr. crt.,Data,Operaţia/Denumirea probei,Serie/Lot,Timp de extracție/Putere ultrasunete,-,-,Nume și prenume operator,-,Observaţii
+599,REGISTRU DE OPERARE ȘI CURĂȚARE,Echipament determinare activitate apa Novasina,Nr. crt.,Data,Operaţia/Denumirea probei,Serie/Lot,Valoarea activității apei citite,-,-,Nume și prenume operator,-,Observaţii
+596,REGISTRU DE OPERARE ȘI CURĂȚARE,Moara cu cutite Gm 200,Nr. crt.,Data,Operaţia/Denumirea probei,Serie/Lot,-,-,-,Nume și prenume operator,-,Observaţii
+0,REGISTRU DE OPERARE ȘI CURĂȚARE,HPLC,Nr. crt.,Data,Denumire produs,Seria și data fabricației,Data fabricației,-,-,Efectuat determinarea,Starea aparatului la finalul operării,-
+0,REGISTRU DE OPERARE ȘI CURĂȚARE,UV VIS,Nr. crt.,Data,Denumire produs,Serie/Lot,Absorbanța/Lungimea de undă,-,-,Efectuat citirea,Starea aparatului la finalul operării,-
+0,Registru evidenta,Probe,Nr. crt.,Denumire probă,Seria,Solicitant,Analiza solicitată,Data primirii,-,Data eliberării,Nume,Semnătura
+44,Registru evidenta,Rapoarte de analiza,Nr. raport de analiză,Data primirii probei,Denumire produs,Serie,Rezoluție,Data eliberării raportului de analiză,-,Semnătura,-,-
