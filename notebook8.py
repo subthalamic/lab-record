@@ -249,7 +249,7 @@ def disable_entries(event):
 
 def completare_registre(entry):
 
-    r = [pd.read_csv(f'{dir_path}registre/{i}.csv') for i in range(23)]
+    r = [pd.read_csv(f'{dir_path}records/{i}.csv') for i in range(23)]
 
     if entry.loc[0, 'Operatiune'] == 'Analiză':
         col_type = entry.loc[0, 'Produs']
@@ -593,7 +593,7 @@ def get_entry_values():
 
 def show(ii):
 
-    df = pd.read_csv(f'{dir_path}registre/{ii}.csv')
+    df = pd.read_csv(f'{dir_path}records/{ii}.csv')
 
     # Create the main window
     sh = tk.Tk()
